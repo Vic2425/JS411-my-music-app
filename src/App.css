@@ -1,8 +1,11 @@
 .formLogin{
+    display: block;
+    text-align: center;
     width: 500px;
-    margin: 50px auto;
+    margin: 0 auto;
 }
 
-a {
-    text-decoration: none;
+.MuiTextField-root {
+    width: 300px;
+    margin-top: 20px;
 }
