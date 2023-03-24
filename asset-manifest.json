@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JS411-my-music-app/static/css/main.4e1a51ef.css",
-    "main.js": "/JS411-my-music-app/static/js/main.f4d4cad7.js",
+    "main.css": "/JS411-my-music-app/static/css/main.09acbfd5.css",
+    "main.js": "/JS411-my-music-app/static/js/main.77b97d16.js",
     "static/js/787.186c6a2c.chunk.js": "/JS411-my-music-app/static/js/787.186c6a2c.chunk.js",
     "index.html": "/JS411-my-music-app/index.html",
-    "main.4e1a51ef.css.map": "/JS411-my-music-app/static/css/main.4e1a51ef.css.map",
-    "main.f4d4cad7.js.map": "/JS411-my-music-app/static/js/main.f4d4cad7.js.map",
+    "main.09acbfd5.css.map": "/JS411-my-music-app/static/css/main.09acbfd5.css.map",
+    "main.77b97d16.js.map": "/JS411-my-music-app/static/js/main.77b97d16.js.map",
     "787.186c6a2c.chunk.js.map": "/JS411-my-music-app/static/js/787.186c6a2c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e1a51ef.css",
-    "static/js/main.f4d4cad7.js"
+    "static/css/main.09acbfd5.css",
+    "static/js/main.77b97d16.js"
   ]
 }
